@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hey there! 👋 I'm Tushar Singhal</h1>
 
 <p align="center">
   <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/main/assets/header.png" />
@@ -10,7 +10,7 @@
 
 <h2 align="center">About Me</h2>
 
-- 💻 Software Engineer
+- 💻 Software Engineer Student
 - 🌟 Passionate about coding and technology
 - 🎓 Lifelong learner, always exploring new technologies and methodologies
 - 📚 Currently focusing on machine learning and data science
@@ -59,7 +59,7 @@
 
 <h2 align="center">Projects</h2>
 
-- [Project 1](Link to Project 1 Repository)
+- [Project 1]([Link to Project 1 Repository](https://github.com/tsinghal451/30DaysCodingJS))
 - [Project 2](Link to Project 2 Repository)
 
 <p align="center">Let's code together and make a difference! 💻✨</p>
