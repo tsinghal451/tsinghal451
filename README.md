@@ -59,7 +59,6 @@
 
 <h2 align="center">Projects</h2>
 
-- [Project 1]([Link to Project 1 Repository](https://github.com/tsinghal451/30DaysCodingJS))
-- [Project 2](Link to Project 2 Repository)
+- [Project 1]([30DaysCodingJs](https://github.com/tsinghal451/30DaysCodingJS))
 
 <p align="center">Let's code together and make a difference! 💻✨</p>
