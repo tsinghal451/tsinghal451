@@ -1,10 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Tushar Singhal</h1>
 
-<p align="center">
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-</p>
+
 
 <p align="center">
   Welcome to my GitHub profile! 🚀 I'm passionate about coding and building awesome projects.
@@ -21,7 +17,9 @@
 <h2 align="center">Technologies I Work With</h2>
 
 <p align="center">
-  <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/main/assets/tech-stack.png" />
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 </p>
 
 <h2 align="center">What I'm Working On</h2>
