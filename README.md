@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="Your LinkedIn Profile URL">
-    <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/main/assets/linkedin.png" width="40" />
+    <img src="[https://github.com/YourGitHubUsername/YourGitHubUsername/blob/main/assets/linkedin.png](https://www.linkedin.com/in/tushar-singhal-441439247/)" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="Your Twitter Profile URL">
