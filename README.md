@@ -9,8 +9,8 @@
 - 💻 Software Engineering Student
 - 🌟 Passionate about coding and technology
 - 🎓 Lifelong learner, always exploring new technologies and methodologies
-- 📚 Currently focusing on machine learning and data science
-- 🌱 Love to collaborate on open-source projects
+- 📚 Currently focusing on Web Development
+
 
 <h2 align="center">Tech Stack</h2>
 
